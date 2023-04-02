@@ -118,9 +118,9 @@ Exercises
      
   ::
    
-          name       |  popn_per_sqkm   
-    -----------------+------------------
-     Upper East Side | 48524.4877489857
-     Upper West Side | 40152.4896080024
+          name         |  popn_per_sqkm   
+    -------------------+------------------
+     North Sutton Area | 68435.13283772678
+     East Village      | 50404.48341332535
 
      
